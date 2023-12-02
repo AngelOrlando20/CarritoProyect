@@ -40,10 +40,32 @@ Extra: los aparatos que utilizamos en laboratorio (Monitor, VGA, Teclado, Mouse,
 
 
 ## Software (NodeRed, Google Cloud, Framework React, Lenguajes MySql, Python, Javascript, Html, CSS y librerías utilizadas)
+Softwares:
+* Node-red
+* Mosquitto
+* Real VNC
+* Google Cloud
+Framework:
+* React
+Lenguajes:
+* Python
+* MySQL
+* Javascript
+* HTML
+* CSS
+Librerías utilizadas:
+* mysql.connector
+* fastapi
+* bmp_280
+* RPi.GPIO
+* gunicorn
+
 
 ## Problemas encontrados durante la implementación
-
-## Comentarios Finales
+* Se nos desoldó el carrito y tuvimos que volver a soldarlo varias veces.
+* Tuvimos que volver a acomodar el carrito.
+* El peso de la batería era superior por lo que teníamos que hacer contrapeso y lo conseguimos poniéndole un candado.
+Los motores no estaban bien conectados y con ayuda de la maestra descubrimos que estaban mal conectados los pines.
 
 ## Referencias
 * ¿Qué es el Internet de las cosas (IoT)? (2014). Oracle.com. https://www.oracle.com/mx/internet-of-things/what-is-iot/
